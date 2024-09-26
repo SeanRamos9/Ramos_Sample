@@ -1,1 +1,0 @@
-print("pogi ni sean sobra")
